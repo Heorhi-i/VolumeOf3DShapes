@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b584419-2e8e-4a07-bd46-c43e08c46b8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/com/ShapesVolumeCalculator/ShapeVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Heorhi-i"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Heorhi-i/VolumeOf3DShapes.git",
+    "accountId": "1c038803-7fef-4ebe-8e57-855f3c4ca60a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30XUlOWbLSXiAxtPapdBKhgQUJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\idiaProjects\VolumeOf3DShapes\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="G:\idiaProjects\ComplexCalculator\com\Shapes\ComplexNum.java" />
+      <module name="VolumeOf3DShapes" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/../ComplexCalculator/com/Shapes/ComplexNum.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b584419-2e8e-4a07-bd46-c43e08c46b8f" name="Changes" comment="" />
+      <created>1753773562256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753773562256</updated>
+    </task>
+    <servers />
+  </component>
+</project>
